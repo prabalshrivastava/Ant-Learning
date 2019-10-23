@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<project default="another">
+	<target name="test">
+		<echo message="Hello! " />
+	</target>
+
+	<target name="another" depends="test"><!-- Depends attribute defines that a target's task needs to be executed first-->
+		<echo message="World! " />
+	</target>
+</project>

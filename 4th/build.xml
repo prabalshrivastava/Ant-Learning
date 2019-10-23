@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<project default="displayProperties">
+	<property file="build.properties" />
+	<!--<property name="somekey" value="somevalue" />-->
+	<property name="myurl" value="www.google.com" />
+
+	<target name="displayProperties">
+		<!--User defined Properties-->
+		<echo message="User defined Properties from properties file : somekey : ${somekey}, myUrl : ${myurl}" />
+		<!--<echo message="User defined Properties : somekey : ${somekey}, myUrl : ${myurl}" />-->
+
+		<!--System Properties-->
+		<echo message="System Properties : OS Name : ${os.name}, JVM Vendor : ${java.vm.vendor}" />
+
+		<!--Built in Properties-->
+		<echo message="Built in Properties : Base Ddirectory : ${basedir}, Ant Home : ${ant.home}" />
+
+		<!--toString of Types-->
+		<fileset id="xmlfiles" dir="." includes="*.xml" />
+		<echo>toString of a fieldset : ${toString:xmlfiles}</echo>
+		
+		<fileset id="prop" dir="." includes="*.properties" />
+		<echo>toString of a fieldset : ${toString:prop}</echo>
+		
+		<fileset id="xp" dir="." includes="*.xml,*.properties" />
+		<echo>toString of a fieldset : ${toString:xp}</echo>
+
+		<fileset id="all" dir="." includes="*" />
+		<echo>toString of a fieldset : ${toString:all}</echo>
+	</target>
+</project>

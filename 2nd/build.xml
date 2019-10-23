@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<project default="test">
+<!--by default which target to call is given by default attribute-->
+<!--In this case it will call the test target-->
+	<target name="test">
+		<echo message="Hello World! " />
+		<!-- display a message -->
+		<mkdir dir="newDirectory" />
+		<!-- make the directory : by default it create newDirectory in the same directory as the current file-->
+	</target>
+</project>

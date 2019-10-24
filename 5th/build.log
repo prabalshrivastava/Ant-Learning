@@ -1,0 +1,392 @@
+Build sequence for target(s) `first' is [first]
+Complete build sequence is [first, ]
+
+first:
+   [delete] Deleting directory D:\Development\Git Repository\Ant-Learning\5th\docdir
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\allclasses-frame.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\allclasses-noframe.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\CookieKeys.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\package-frame.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\package-summary.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\package-tree.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\ReleaseInfo.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\TempFileUtil.html
+   [delete] Deleting directory D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util
+   [delete] Deleting directory D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel
+   [delete] Deleting directory D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal
+   [delete] Deleting directory D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay
+   [delete] Deleting directory D:\Development\Git Repository\Ant-Learning\5th\docdir\com
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\constant-values.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\deprecated-list.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\help-doc.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\index-all.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\index.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\overview-tree.html
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\package-list
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\script.js
+   [delete] Deleting D:\Development\Git Repository\Ant-Learning\5th\docdir\stylesheet.css
+   [delete] Deleting directory D:\Development\Git Repository\Ant-Learning\5th\docdir
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th contains source files in the default package, you must specify them as source files not packages.
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th doesn't contain any packages, dropping it.
+  [javadoc] Generating Javadoc
+  [javadoc] Executing 'D:\Development\Program Files\Java 8\jdk1.8.0_231\bin\javadoc.exe' with arguments:
+'-d'
+'D:\Development\Git Repository\Ant-Learning\5th\docdir'
+'-doctitle'
+'
+				<h1>Test</h1>
+			'
+'-bottom'
+'
+				<footer>
+				  <p>Posted by: Hege Refsnes</p>
+				  <p>Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
+				</footer>
+			'
+'-classpath'
+'D:\Development\Program Files\apache-ant-1.9.13\lib\ant-launcher.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-antlr.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-apache-bcel.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-apache-bsf.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-apache-log4j.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-apache-oro.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-apache-regexp.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-apache-resolver.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-apache-xalan2.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-commons-logging.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-commons-net.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-jai.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-javamail.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-jdepend.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-jmf.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-jsch.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-junit.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-junit4.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-netrexx.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-swing.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant-testutil.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ant.jar;D:\Development\Program Files\apache-ant-1.9.13\lib\ecj.jar;D:\Development\Program Files\Java 8\jdk1.8.0_231\lib\tools.jar'
+'-version'
+'-author'
+'-sourcepath'
+'D:\Development\Git Repository\Ant-Learning\5th'
+'D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java'
+'D:\Development\Git Repository\Ant-Learning\5th\ReleaseInfo.java'
+'D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java'
+
+The ' characters around the executable and arguments are
+not part of the command.
+  [javadoc] Javadoc execution
+  [javadoc] Loading source file D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java...
+  [javadoc] Loading source file D:\Development\Git Repository\Ant-Learning\5th\ReleaseInfo.java...
+  [javadoc] Loading source file D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java...
+  [javadoc] Constructing Javadoc information...
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:17: error: cannot find symbol
+  [javadoc] import com.liferay.portal.CookieNotSupportedException;
+  [javadoc]                          ^
+  [javadoc]   symbol:   class CookieNotSupportedException
+  [javadoc]   location: package com.liferay.portal
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:18: error: package com.liferay.portal.kernel.log does not exist
+  [javadoc] import com.liferay.portal.kernel.log.Log;
+  [javadoc]                                     ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:19: error: package com.liferay.portal.kernel.log does not exist
+  [javadoc] import com.liferay.portal.kernel.log.LogFactoryUtil;
+  [javadoc]                                     ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:25: error: package javax.servlet.http does not exist
+  [javadoc] import javax.servlet.http.Cookie;
+  [javadoc]                          ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:26: error: package javax.servlet.http does not exist
+  [javadoc] import javax.servlet.http.HttpServletRequest;
+  [javadoc]                          ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:27: error: package javax.servlet.http does not exist
+  [javadoc] import javax.servlet.http.HttpServletResponse;
+  [javadoc]                          ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:60: error: cannot find symbol
+  [javadoc] 		HttpServletRequest request, HttpServletResponse response,
+  [javadoc] 		^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:60: error: cannot find symbol
+  [javadoc] 		HttpServletRequest request, HttpServletResponse response,
+  [javadoc] 		                            ^
+  [javadoc]   symbol:   class HttpServletResponse
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:61: error: cannot find symbol
+  [javadoc] 		Cookie cookie) {
+  [javadoc] 		^
+  [javadoc]   symbol:   class Cookie
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:70: error: cannot find symbol
+  [javadoc] 	public static void addCookie(HttpServletRequest request, HttpServletResponse response, Cookie cookie,
+  [javadoc] 	                             ^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:70: error: cannot find symbol
+  [javadoc] 	public static void addCookie(HttpServletRequest request, HttpServletResponse response, Cookie cookie,
+  [javadoc] 	                                                         ^
+  [javadoc]   symbol:   class HttpServletResponse
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:70: error: cannot find symbol
+  [javadoc] 	public static void addCookie(HttpServletRequest request, HttpServletResponse response, Cookie cookie,
+  [javadoc] 	                                                                                       ^
+  [javadoc]   symbol:   class Cookie
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:77: error: cannot find symbol
+  [javadoc] 			HttpServletRequest request, HttpServletResponse response, Cookie cookie,
+  [javadoc] 			^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:77: error: cannot find symbol
+  [javadoc] 			HttpServletRequest request, HttpServletResponse response, Cookie cookie,
+  [javadoc] 			                            ^
+  [javadoc]   symbol:   class HttpServletResponse
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:77: error: cannot find symbol
+  [javadoc] 			HttpServletRequest request, HttpServletResponse response, Cookie cookie,
+  [javadoc] 			                                                          ^
+  [javadoc]   symbol:   class Cookie
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:120: error: cannot find symbol
+  [javadoc] 		HttpServletRequest request, HttpServletResponse response) {
+  [javadoc] 		^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:120: error: cannot find symbol
+  [javadoc] 		HttpServletRequest request, HttpServletResponse response) {
+  [javadoc] 		                            ^
+  [javadoc]   symbol:   class HttpServletResponse
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:130: error: cannot find symbol
+  [javadoc] 	public static String getCookie(HttpServletRequest request, String name) {
+  [javadoc] 	                               ^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:135: error: cannot find symbol
+  [javadoc] 		HttpServletRequest request, String name, boolean toUpperCase) {
+  [javadoc] 		^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:169: error: cannot find symbol
+  [javadoc] 	public static String getDomain(HttpServletRequest request) {
+  [javadoc] 	                               ^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:226: error: cannot find symbol
+  [javadoc] 	public static boolean hasSessionId(HttpServletRequest request) {
+  [javadoc] 	                                   ^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:248: error: cannot find symbol
+  [javadoc] 	public static void validateSupportCookie(HttpServletRequest request)
+  [javadoc] 	                                         ^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:249: error: cannot find symbol
+  [javadoc] 		throws CookieNotSupportedException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class CookieNotSupportedException
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:263: error: cannot find symbol
+  [javadoc] 		HttpServletRequest request, String name, boolean toUpperCase) {
+  [javadoc] 		^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:283: error: cannot find symbol
+  [javadoc] 		HttpServletRequest request) {
+  [javadoc] 		^
+  [javadoc]   symbol:   class HttpServletRequest
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:282: error: cannot find symbol
+  [javadoc] 	private static Map<String, Cookie> _getCookieMap(
+  [javadoc] 	                           ^
+  [javadoc]   symbol:   class Cookie
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\CookieKeys.java:333: error: cannot find symbol
+  [javadoc] 	private static Log _log = LogFactoryUtil.getLog(CookieKeys.class);
+  [javadoc] 	               ^
+  [javadoc]   symbol:   class Log
+  [javadoc]   location: class CookieKeys
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:22: error: package com.liferay.portal.kernel.exception does not exist
+  [javadoc] import com.liferay.portal.kernel.exception.PortalException;
+  [javadoc]                                           ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:23: error: package com.liferay.portal.kernel.exception does not exist
+  [javadoc] import com.liferay.portal.kernel.exception.SystemException;
+  [javadoc]                                           ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:24: error: package com.liferay.portal.kernel.repository.model does not exist
+  [javadoc] import com.liferay.portal.kernel.repository.model.FileEntry;
+  [javadoc]                                                  ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:25: error: package com.liferay.portal.kernel.repository.model does not exist
+  [javadoc] import com.liferay.portal.kernel.repository.model.Folder;
+  [javadoc]                                                  ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:26: error: package com.liferay.portal.model does not exist
+  [javadoc] import com.liferay.portal.model.Repository;
+  [javadoc]                                ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:27: error: package com.liferay.portal.portletfilerepository does not exist
+  [javadoc] import com.liferay.portal.portletfilerepository.PortletFileRepositoryThreadLocal;
+  [javadoc]                                                ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:28: error: package com.liferay.portal.portletfilerepository does not exist
+  [javadoc] import com.liferay.portal.portletfilerepository.PortletFileRepositoryUtil;
+  [javadoc]                                                ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:29: error: package com.liferay.portal.service does not exist
+  [javadoc] import com.liferay.portal.service.ServiceContext;
+  [javadoc]                                  ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:30: error: package com.liferay.portal.util does not exist
+  [javadoc] import com.liferay.portal.util.PortletKeys;
+  [javadoc]                               ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:31: error: package com.liferay.portlet.documentlibrary does not exist
+  [javadoc] import com.liferay.portlet.documentlibrary.NoSuchFolderException;
+  [javadoc]                                           ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:32: error: package com.liferay.portlet.documentlibrary.model does not exist
+  [javadoc] import com.liferay.portlet.documentlibrary.model.DLFolder;
+  [javadoc]                                                 ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:33: error: package com.liferay.portlet.documentlibrary.model does not exist
+  [javadoc] import com.liferay.portlet.documentlibrary.model.DLFolderConstants;
+  [javadoc]                                                 ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:34: error: package com.liferay.portlet.documentlibrary.service does not exist
+  [javadoc] import com.liferay.portlet.documentlibrary.service.DLAppServiceUtil;
+  [javadoc]                                                   ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:35: error: package com.liferay.portlet.documentlibrary.service does not exist
+  [javadoc] import com.liferay.portlet.documentlibrary.service.DLFolderLocalServiceUtil;
+  [javadoc]                                                   ^
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:44: error: cannot find symbol
+  [javadoc] 	public static FileEntry addTempFile(
+  [javadoc] 	              ^
+  [javadoc]   symbol:   class FileEntry
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:47: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:47: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:68: error: cannot find symbol
+  [javadoc] 	public static FileEntry addTempFile(
+  [javadoc] 	              ^
+  [javadoc]   symbol:   class FileEntry
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:71: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:71: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:93: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:93: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:100: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:100: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:108: error: cannot find symbol
+  [javadoc] 	public static FileEntry getTempFile(
+  [javadoc] 	              ^
+  [javadoc]   symbol:   class FileEntry
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:110: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] Creating destination directory: "D:\Development\Git Repository\Ant-Learning\5th\docdir\"
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:110: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:120: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:120: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:139: error: cannot find symbol
+  [javadoc] 					throws PortalException, SystemException {
+  [javadoc] 					       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:139: error: cannot find symbol
+  [javadoc] 					throws PortalException, SystemException {
+  [javadoc] 					                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:171: error: cannot find symbol
+  [javadoc] 	protected static Folder addTempFolder(
+  [javadoc] Standard Doclet version 1.8.0_231
+  [javadoc] Building tree for all the packages and classes...
+  [javadoc] 	                 ^
+  [javadoc]   symbol:   class Folder
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:173: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:173: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:207: error: cannot find symbol
+  [javadoc] 	protected static Folder getTempFolder(
+  [javadoc] 	                 ^
+  [javadoc]   symbol:   class Folder
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:209: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:209: error: cannot find symbol
+  [javadoc] 		throws PortalException, SystemException {
+  [javadoc] 		                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:243: error: cannot find symbol
+  [javadoc] 	public static Folder getOrAddFolder(long userId,long repositoryId, long parentFolderId, String folderName, String description,ServiceContext serviceContext)
+  [javadoc] 	                                                                                                                              ^
+  [javadoc]   symbol:   class ServiceContext
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:243: error: cannot find symbol
+  [javadoc] 	public static Folder getOrAddFolder(long userId,long repositoryId, long parentFolderId, String folderName, String description,ServiceContext serviceContext)
+  [javadoc] 	              ^
+  [javadoc]   symbol:   class Folder
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:244: error: cannot find symbol
+  [javadoc] 			throws PortalException, SystemException{
+  [javadoc] 			       ^
+  [javadoc]   symbol:   class PortalException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] D:\Development\Git Repository\Ant-Learning\5th\TempFileUtil.java:244: error: cannot find symbol
+  [javadoc] 			throws PortalException, SystemException{
+  [javadoc] 			                        ^
+  [javadoc]   symbol:   class SystemException
+  [javadoc]   location: class TempFileUtil
+  [javadoc] error: cannot find symbol
+  [javadoc] 
+  [javadoc]   symbol:   variable Time
+  [javadoc]   location: class CookieKeys
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\CookieKeys.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\ReleaseInfo.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\TempFileUtil.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\package-frame.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\package-summary.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\com\liferay\portal\kernel\util\package-tree.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\constant-values.html...
+  [javadoc] Building index for all the packages and classes...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\overview-tree.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\index-all.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\deprecated-list.html...
+  [javadoc] Building index for all classes...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\allclasses-frame.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\allclasses-noframe.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\index.html...
+  [javadoc] Generating D:\Development\Git Repository\Ant-Learning\5th\docdir\help-doc.html...
+  [javadoc] 1 error
+  [javadoc] 68 warnings
+first:  duration 3 seconds
+
+BUILD SUCCESSFUL

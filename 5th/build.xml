@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<project default="first" basedir="." name="ant-project">
+	<record name="build.log" loglevel="verbose" append="false"/>
+	<property name="source.dir" value="." />
+	<property name="doc.dir" value="./docdir" />
+
+	<target name="first">
+		<delete dir="${doc.dir}"/>
+		<javadoc sourcepath="${source.dir}" destdir="${doc.dir}">
+			<fileset dir="." />
+			<doctitle>
+				<![CDATA[<h1>Test</h1>]]>
+			</doctitle>
+			<bottom>
+				<![CDATA[<footer>
+				  <p>Posted by: Hege Refsnes</p>
+				  <p>Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
+				</footer>]]>
+			</bottom>	
+		</javadoc>
+	</target>
+</project>
